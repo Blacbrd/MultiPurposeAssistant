@@ -3,3 +3,7 @@
 
 # ---- Data collection ----
 voice_recognition/audio_files/
+
+# ---- Sensitive Files ----
+.env
+

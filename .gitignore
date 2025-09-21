@@ -1,1 +1,5 @@
+# ---- Virtual environment ----
 .venv/
+
+# ---- Data collection ----
+voice_recognition/audio_files/
